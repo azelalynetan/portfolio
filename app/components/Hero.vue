@@ -4,7 +4,7 @@
       <div class="w-full lg:w-2/3 text-center lg:text-left">
         <div class="flex flex-col sm:justify-around mb-6">
           <hgroup data-aos="fade-up" data-aos-delay="500" class="mb-12">
-            <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-900">
+            <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-800">
               Hello, I'am 
               <span class="text-red-400">
                 Azel
@@ -12,10 +12,10 @@
               
               <span class="animate-wave">👋</span>
             </h1>
-            <h2 class="text-gray-900 text-lg font-semibold sm:text-2xl mb-2">
+            <h2 class="text-gray-800 text-lg font-semibold sm:text-2xl mb-2">
               Web Developer
             </h2>
-            <p class="text-base sm:text-lg text-gray-900 mb-4">
+            <p class="text-base sm:text-lg text-gray-800 mb-4">
               I build responsive, user-friendly web applications using 
               <span class="text-red-400">Nuxt.js</span> and <span class="text-red-400">Vue.js</span>.
               I'm currently exploring <span class="text-red-400">Next.js</span> and <span class="text-red-400">React.js</span> to expand my skills.

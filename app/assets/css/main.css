@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scroll-behavior: smooth;
+}
+
 .animate-wave {
   animation-name: wave-animation;
   animation-duration: 2.5s;

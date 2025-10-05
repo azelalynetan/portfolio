@@ -14,7 +14,7 @@
             activeClass="underline underline-offset-8"
           >{{ item.label }}</NuxtLink>
           <NuxtLink  
-            to="/contact" 
+            to="#contact" 
             class="bg-red-400 hover:bg-red-300 text-white px-6 py-2 rounded-full
             transition-colors duration-200 shadow-md focus:outline-none"
             aria-label="Work with me"
@@ -54,7 +54,7 @@
               </li>
               <li class="mb-8">
                 <a 
-                  href="/contact" 
+                  href="#contact" 
                   class="bg-red-400 hover:bg-red-300 text-white px-6 py-2 rounded-full
                   transition-colors duration-200 shadow-md focus:outline-none"
                   aria-label="Work with me"

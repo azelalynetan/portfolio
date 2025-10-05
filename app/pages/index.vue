@@ -3,7 +3,6 @@
     <Hero />
     <About />
     <FeaturedProjects />
-    <GetInTouch />
   </div>
 </template>
 <script setup>
