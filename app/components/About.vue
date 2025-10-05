@@ -46,12 +46,12 @@
         </p>
         <div class="flex flex-col md:flex-row gap-3">
           <NuxtLink
-            href="/blogs#activities"
+            href="/blog#posts"
             class="bg-slate-600 hover:bg-slate-400 text-white px-8 py-3 rounded-full text-center
             transition shadow-lg"
           >Read my Tech Posts</NuxtLink>
           <NuxtLink 
-            href="/blogs#posts"
+            href="/blog#activities"
             class="border border-red-400 text-red-400 hover:bg-red-50 px-8 py-3 rounded-full
             text-center transition"
           >View my Activities</NuxtLink>

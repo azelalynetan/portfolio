@@ -2,23 +2,21 @@
   <div>
     <header class="bg-red-300 sticky top-0 z-50">
       <div class="max-w-screen mx-auto px-4 py-4 flex justify-between items-center gap-8">
-        <NuxtLink to="/" class="px-2 md:px-6 focus:outline-none focus:ring-2 focus:ring-pink-600 rounded">
-          <h1 class="text-2xl font-bold text-pink-100">AT</h1>
+        <NuxtLink to="/" class="px-2 md:px-6 focus:outline-none">
+          <h1 class="text-2xl font-bold text-pink-100 hover:text-red-400">AT</h1>
         </NuxtLink>
         <nav class="hidden md:flex items-center space-x-6" aria-label="Primary Navigation">
           <NuxtLink 
             v-for="(item, index) in navLinks"
             :key="index"
             :to="item.href"
-            class="text-gray-900 hover:text-white transition-color duration-200
-            focus:outline-none focus:ring-pink-600 focus:rounded"
+            class="text-gray-900 hover:text-white transition-color duration-200"
             activeClass="underline underline-offset-8"
           >{{ item.label }}</NuxtLink>
           <NuxtLink  
             to="/contact" 
             class="bg-red-400 hover:bg-red-300 text-white px-6 py-2 rounded-full
-            transition-colors duration-200 shadow-md focus:outline-none focus:ring-2 focus:ring-pink-800
-            focus:ring-offset-2"
+            transition-colors duration-200 shadow-md focus:outline-none"
             aria-label="Work with me"
           >Work with Me</NuxtLink>
         </nav>
@@ -58,8 +56,7 @@
                 <a 
                   href="/contact" 
                   class="bg-red-400 hover:bg-red-300 text-white px-6 py-2 rounded-full
-                  transition-colors duration-200 shadow-md focus:outline-none focus:ring-2 focus:ring-pink-800
-                  focus:ring-offset-2"
+                  transition-colors duration-200 shadow-md focus:outline-none"
                   aria-label="Work with me"
                 >Work with Me</a>
               </li>

@@ -27,7 +27,7 @@
           <div class="p-4 sm:p-6 relative -mt-10">
             <div class="bg-red-200 rounded-lg shadow-md p-6 min-h-48 flex flex-col justify-between">
               <header>
-                <h3 class="text-xl font-bold text-gray-800">
+                <h3 class="text-xl font-bold text-gray-800 mb-2">
                   {{ item.title }} 
                 </h3>
               </header>
