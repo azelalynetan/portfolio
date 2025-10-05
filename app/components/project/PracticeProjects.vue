@@ -65,8 +65,8 @@ const projects = [
   {
     title: "My Portfolio Site using Nuxt.js 4",
     image: "https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1756542261/portfolio/projects/Portfolio_jnrthf.png",
-    live: "",
-    code: "",
+    live: "https://azel-portfolio.vercel.app/",
+    code: "https://github.com/azelalynetan/portfolio",
     tags: ["Nuxt.js", "Tailwind CSS"]
   }, 
   {
