@@ -1,6 +1,9 @@
-# Welcome to My Portofolio Site! 
+# Welcome to My Portfolio Site! 
+
+Visit live site at [https://azel-portfolio.vercel.app/](azel-portfolio.vercel.app)
 
 This is made using Nuxt.js 4 and Tailwind CSS.
+
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
