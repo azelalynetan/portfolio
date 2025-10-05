@@ -6,7 +6,7 @@
           My <span class="text-red-400">Blogs</span> ✍️
         </h1>
         <p class="text-gray-700 text-lg mb-2">
-          Welcome to my little corner on the web — a space where I write about what I’m learning, building, and experiencing along the way. 
+          Welcome to my little corner on the web — a space where I write about what I'm learning, building, and experiencing along the way. 
           This blog is my way of sharing insights, and keeping track of my journey.
         </p>
         <p class="italic text-gray-500 text-sm">

@@ -3,7 +3,7 @@
     <article class="mb-8">
       <header class="text-center sm:text-left">
         <h2 class="text-xl text-gray-700 font-bold mb-2">Fun Projects ✨</h2>
-        <p class="text-gray-700">Fun little projects and code snippets I’ve built from challenges and ideas — mostly from Frontend Mentor, all for practice and learning.</p>
+        <p class="text-gray-700">Fun little projects and code snippets I've built from challenges and ideas — mostly from Frontend Mentor, all for practice and learning.</p>
       </header>
     </article>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">

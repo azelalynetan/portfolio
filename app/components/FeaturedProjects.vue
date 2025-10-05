@@ -6,7 +6,7 @@
           Featured <span class="text-red-400">Projects</span> 💻
         </h2>
         <p class="text-gray-700 text-base">
-          Here are some of the projects I’ve worked on.
+          Here are some of the projects I've worked on.
         </p>
       </header>
       <div data-aos="fade-up" data-aos-delay="600">

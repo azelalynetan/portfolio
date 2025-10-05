@@ -42,7 +42,7 @@
         </h3>
         <p class="text-base text-gray-700 mb-4">
           Beyond coding, I believe the small details matter — from smooth interactions to layouts that just feel right. 
-          I’ve also been an active volunteer in tech communities, where I loved sharing knowledge and connecting with fellow developers.
+          I've also been an active volunteer in tech communities, where I loved sharing knowledge and connecting with fellow developers.
         </p>
         <div class="flex flex-col md:flex-row gap-3">
           <NuxtLink
