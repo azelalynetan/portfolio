@@ -3,7 +3,7 @@
     <section>
       <header class="text-center sm:text-left mb-12">
         <h1 class="text-gray-700 font-bold text-3xl mb-4">
-          My <span class="text-red-400">Projects</span> ✍️
+          My <span class="text-red-400">Projects</span> 👩🏻‍💻
         </h1>
         <p class="text-gray-700 text-lg mb-2">
           A little showcase of the projects I've built, both for work and for fun.
