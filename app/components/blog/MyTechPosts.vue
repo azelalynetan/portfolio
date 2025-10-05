@@ -1,5 +1,5 @@
 <template>
-  <section class="mb-24">
+  <section id="posts" class="mb-24">
     <article class="mb-6">
       <header class="text-center sm:text-left">
         <h2 class="text-xl text-gray-700 font-bold mb-2">My Tech Posts 💻</h2>
