@@ -34,12 +34,12 @@
               <div>
                 <div class="flex flex-col md:flex-row gap-3 mb-2">
                   <a
-                    href="/blogs#activities"
+                    :href="item.live" target="_blank" rel="noopener noreferrer"
                     class="bg-red-400 hover:bg-red-300 text-white px-4 py-1 rounded-md text-center
                     transition shadow-lg flex justify-center items-center gap-2"
                   >Visit Live Site <Icon name="cuida:open-in-new-tab-outline" class="w-2.5" /></a>
                   <a 
-                    href="/blogs#posts"
+                    :href="item.code" target="_blank" rel="noopener noreferrer"
                     class="bg-white border border-red-400 text-red-400 hover:bg-red-100 px-4 py-1 rounded-md
                     text-center transition flex justify-center items-center gap-2"
                   >View Code <Icon name="cuida:open-in-new-tab-outline" class="w-2.5" /></a>

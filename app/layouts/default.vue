@@ -5,6 +5,7 @@
       <div>
         <slot />
       </div>
-    <Footer />
+      <GetInTouch />
+      <Footer />
   </div>
 </template>
