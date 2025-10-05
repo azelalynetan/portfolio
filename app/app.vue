@@ -13,7 +13,6 @@ defineOptions({
 onMounted(() => {
    useNuxtApp().$aos().init()
   window.onresize = function () {
-    // setFontSize()
     useNuxtApp().$aos().refresh()
   }
 })
@@ -21,7 +20,7 @@ onMounted(() => {
 useHead({
   title: 'Portfolio - Azel Alyne Tan | Web Developer',
   meta: [
-    { name: 'description', content: 'Frontend Developer & active tech community volunteer. Passionate about building responsive websites and helping others grow in tech.' }
+    { name: 'description', content: "A web developer based in the Philippines 🇵🇭, passionate about creating modern and accessible websites." }
   ],
 })
 </script>

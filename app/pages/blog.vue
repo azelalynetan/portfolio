@@ -2,9 +2,9 @@
   <div class="max-w-6xl mx-auto px-4 sm:px-8 py-14 md:py-20">
     <section>
       <header class="text-center sm:text-left mb-12">
-        <h2 class="text-gray-700 font-bold text-3xl mb-4">
+        <h1 class="text-gray-700 font-bold text-3xl mb-4">
           My <span class="text-red-400">Blogs</span> ✍️
-        </h2>
+        </h1>
         <p class="text-gray-700 text-lg mb-2">
           Welcome to my little corner on the web — a space where I write about what I’m learning, building, and experiencing along the way. 
           This blog is my way of sharing insights, and keeping track of my journey.
@@ -22,3 +22,13 @@
     <BlogMyActivities />
   </div>
 </template>
+<script setup>
+useSeoMeta({
+  title: "AT | Azel's Blogs",
+  ogTitle: "AT | Azel's Blogs",
+  description: "A space where I write and share my learnings and insights, and keeping track of my journey.",
+  ogDescription: "A space where I write and share my learnings and insights, and keeping track of my journey.",
+  ogImage: 'https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1756542261/portfolio/projects/Portfolio_jnrthf.png',
+  twitterCard: 'summary_large_image',
+})
+</script>
