@@ -10,7 +10,7 @@
           This blog is my way of sharing insights, and keeping track of my journey.
         </p>
         <p class="italic text-gray-500 text-sm">
-          Some posts were originally published on my
+          You can find my posts on my 
           <a 
             href="https://devbits.ph/azelalynetan" target="_blank" rel="noopener noreferrer"
             class="text-red-400"
