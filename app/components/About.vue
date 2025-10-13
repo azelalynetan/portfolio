@@ -9,8 +9,8 @@
       <div class="text-lg mb-8" data-aos="fade-up" data-aos-delay="600">
         <p class="text-gray-700 mb-4">
           I'm a web developer based in the Philippines 🇵🇭, passionate about creating modern and accessible websites. 
-          I mainly work with Nuxt.js and Tailwind to build responsive and user-friendly web applications. 
-          I'm currently exploring <span class="text-red-400">Next.js</span> and <span class="text-red-400">React.js</span> to expand my skills. I also have some experience working with backend tools like APIs and Supabase to better understand how everything connects.
+          I mainly work with <span class="text-red-400">Nuxt.js</span> and <span class="text-red-400">Tailwind CSS</span> to build responsive and user-friendly web applications. 
+          I'm currently exploring <span class="text-red-400">Next.js</span> and <span class="text-red-400">React.js</span> to expand my skills. I also have some experience working with backend tools like APIs and PostgreSQL (<span class="text-red-400">Supabase</span>) to better understand how everything connects.
         </p>
       </div>
       <article class="mb-8" data-aos="fade-up" data-aos-delay="800">
@@ -100,12 +100,12 @@ const skills = [
     icon: "logos:nextjs-icon",
   },
   {
-    label: "WordPress",
-    icon: "logos:wordpress-icon",
-  },
-  {
     label: "Supabase",
     icon: "logos:supabase-icon",
+  },
+  {
+    label: "WordPress",
+    icon: "logos:wordpress-icon",
   },
   {
     label: "Git",
