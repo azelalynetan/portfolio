@@ -23,7 +23,7 @@
             </p>
           </hgroup>
           <div 
-            data-aos="fade-up" data-aos-delay="1000"
+            data-aos="fade-up" data-aos-delay="800"
             class="mb-4 flex flex-col items-center lg:items-start"
           >
             <p class="uppercase text-base font-bold mb-2">Find me on:</p>
@@ -31,7 +31,7 @@
           </div>
         </div>
       </div>
-      <figure class="w-full lg:w-1/3" data-aos="zoom-in-up" data-aos-delay="700">
+      <figure class="w-full lg:w-1/3" data-aos="zoom-in-up" data-aos-delay="600">
         <div class="relative w-full max-w-md mx-auto mb-16">
           <div class="overflow-hidden border-8 border-white rounded-[50%_40%_30%_80%/60%_50%_40%_70%] relative z-10 shadow-2xl bg-red-200">
             <img 

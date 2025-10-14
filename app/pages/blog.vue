@@ -6,11 +6,10 @@
           My <span class="text-red-400">Blogs</span> ✍️
         </h1>
         <p class="text-gray-700 text-lg mb-2">
-          Welcome to my little corner on the web — a space where I write about what I'm learning, building, and experiencing along the way. 
-          This blog is my way of sharing insights, and keeping track of my journey.
+          Welcome to my little corner on the web — a space where I share my learnings, insights, and keeping track of my journey.
         </p>
         <p class="italic text-gray-500 text-sm">
-          Some posts were originally published on my
+          You can find my posts on my 
           <a 
             href="https://devbits.ph/azelalynetan" target="_blank" rel="noopener noreferrer"
             class="text-red-400"
@@ -26,8 +25,8 @@
 useSeoMeta({
   title: "AT | Azel's Blogs",
   ogTitle: "AT | Azel's Blogs",
-  description: "A space where I write and share my learnings and insights, and keeping track of my journey.",
-  ogDescription: "A space where I write and share my learnings and insights, and keeping track of my journey.",
+  description: "A space where I share my learnings, insights, and keeping track of my journey.",
+  ogDescription: "A space where I share my learnings, insights, and keeping track of my journey.",
   ogImage: 'https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1756542261/portfolio/projects/Portfolio_jnrthf.png',
   twitterCard: 'summary_large_image',
 })
