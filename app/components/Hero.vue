@@ -3,7 +3,7 @@
     <article class="max-w-6xl min-h-screen mx-auto px-4 sm:px-8 py-14 md:py-20 flex flex-col-reverse lg:flex-row items-center">
       <div class="w-full lg:w-2/3 text-center lg:text-left">
         <div class="flex flex-col sm:justify-around mb-6">
-          <hgroup data-aos="fade-up" data-aos-delay="500" class="mb-12">
+          <hgroup data-aos="fade-up" data-aos-delay="300" class="mb-12">
             <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-800">
               Hello, I'am 
               <span class="text-red-400">
@@ -23,7 +23,7 @@
             </p>
           </hgroup>
           <div 
-            data-aos="fade-up" data-aos-delay="800"
+            data-aos="fade-up" data-aos-delay="500"
             class="mb-4 flex flex-col items-center lg:items-start"
           >
             <p class="uppercase text-base font-bold mb-2">Find me on:</p>
@@ -31,7 +31,7 @@
           </div>
         </div>
       </div>
-      <figure class="w-full lg:w-1/3" data-aos="zoom-in-up" data-aos-delay="600">
+      <figure class="w-full lg:w-1/3" data-aos="zoom-in-up" data-aos-delay="100">
         <div class="relative w-full max-w-md mx-auto mb-16">
           <div class="overflow-hidden border-8 border-white rounded-[50%_40%_30%_80%/60%_50%_40%_70%] relative z-10 shadow-2xl bg-red-200">
             <img 
