@@ -42,31 +42,31 @@
 const posts = [
   {
     title: "Co-organized Women Who Code in the Dark 2023",
-    description: "Aug 12, 2023",
+    date: "Aug 12, 2023",
     tags: ["Organizer", "Competition"],
     link: "https://devbits.ph/azelalynetan/highlights/coorganized-women-who-code-in-the-dark-jc1m"
   }, 
   {
     title: "Co-organized Blogging 101 for Seniors 2019",
-    description: "Sep 14, 2019",
+    date: "Sep 14, 2019",
     tags: ["Organizer", "Speaker"],
     link: ""
   },
   {
     title: "Voluteered at WWCode CONNECT Asia 2019",
-    description: "Aug 31, 2019",
+    date: "Aug 31, 2019",
     tags: ["Volunteer"],
     link: ""
   },
   {
     title: "Guest Speaker at Her World; 2019",
-    description: "Apr 27, 2019",
+    date: "Apr 27, 2019",
     tags: ["Speaker"],
     link: ""
   },
   {
     title: "Volunteered at PyCon APAC 2019",
-    description: "Feb 23, 2019",
+    date: "Feb 23, 2019",
     tags: ["Conference", "Volunteer"],
     link: ""
   },
