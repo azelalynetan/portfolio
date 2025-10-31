@@ -70,6 +70,13 @@ const projects = [
     tags: ["Nuxt.js", "Tailwind CSS"]
   }, 
   {
+    title: "[Practice] Simple Tic Tac Toe Game in Vue.js 3",
+    image: "https://res.cloudinary.com/dytehra8d/image/upload/v1761933363/portfolio/projects/tic-tac-toe_ceig3y.png",
+    live: "https://azelalynetan.github.io/tic-tac-toe-vue/",
+    code: "https://github.com/azelalynetan/tic-tac-toe-vue",
+    tags: ["Vue.js", "Javascript"]
+  }, 
+  {
     title: "[Practice] Simple CSS Animation using Square Shapes",
     image: "https://res.cloudinary.com/inbytes/image/upload/c_fill,q_auto,w_600/v1707460147/dev/azelalynetan/highlights/CSS%20Animation%2011ve.gif",
     live: "https://devbits.ph/azelalynetan/highlights/created-a-simple-css-animation-using-square-da4o",
