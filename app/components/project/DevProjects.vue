@@ -1,7 +1,7 @@
 <template>
   <div>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
-      <li v-for="(item, index) in projects" :key={index} class="group relative">
+      <li v-for="(item, index) in projects" :key={index} class="group relative mb-2">
         <article 
           class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all
           duration-300 h-full"

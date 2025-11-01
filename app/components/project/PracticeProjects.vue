@@ -7,7 +7,7 @@
       </header>
     </article>
     <ul class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
-      <li v-for="(item, index) in projects" :key={index} class="group relative">
+      <li v-for="(item, index) in projects" :key={index} class="group relative mb-2">
         <article 
           class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-all
           duration-300 h-full"
@@ -64,7 +64,7 @@
 const projects = [
   {
     title: "My Portfolio Site using Nuxt.js 4",
-    image: "https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1756542261/portfolio/projects/Portfolio_jnrthf.png",
+    image: "https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1762014178/portfolio/projects/Portfolio_uyfnfp.png",
     live: "https://azel-portfolio.vercel.app/",
     code: "https://github.com/azelalynetan/portfolio",
     tags: ["Nuxt.js", "Tailwind CSS"]

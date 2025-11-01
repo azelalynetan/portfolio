@@ -12,12 +12,20 @@
           class="border border-gray-200 bg-gray-200 p-6 rounded-md shadow-m hover:shadow-xl group"
         >
           <article class="text-gray-700 group-hover:text-gray-900">
-            <a :href="item.link" target="_blank" rel="noopener noreferrer">
+            <!-- <a :href="item.link" target="_blank" rel="noopener noreferrer"> -->
               <h3 class="font-semibold text-md">
                 {{ item.title }}
               </h3>
-              <p class="text-gray-400 group-hover:text-gray-700 text-sm">{{ item.description }}</p>
-            </a>
+              <p class="text-gray-400 group-hover:text-gray-700 text-sm mb-2">{{ item.description }}</p>
+              <div class="flex">
+                <a
+                  :href="item.link" target="_blank" rel="noopener noreferrer"
+                  class="bg-red-400 hover:bg-red-300 text-white px-4 py-1 rounded-md text-center
+                  transition shadow-lg flex justify-center items-center gap-2"
+                >Read <Icon name="cuida:open-in-new-tab-outline" class="w-2.5" /></a>
+              </div>
+              
+            <!-- </a> -->
           </article>
         </li>
       </ul>
