@@ -27,7 +27,7 @@ useSeoMeta({
   ogTitle: "AT | Azel's Blogs",
   description: "A space where I share my learnings, insights, and keeping track of my journey.",
   ogDescription: "A space where I share my learnings, insights, and keeping track of my journey.",
-  ogImage: 'https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1756542261/portfolio/projects/Portfolio_jnrthf.png',
+  ogImage: 'https://res.cloudinary.com/dytehra8d/image/upload/c_fill,q_auto,w_600/v1762014178/portfolio/projects/Portfolio_uyfnfp.png',
   twitterCard: 'summary_large_image',
 })
 </script>
