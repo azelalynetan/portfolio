@@ -5,7 +5,7 @@
         <div class="flex flex-col sm:justify-around mb-6">
           <hgroup data-aos="fade-up" data-aos-delay="300" class="mb-12">
             <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-gray-800">
-              Hello, I'am 
+              Hello, I'm 
               <span class="text-red-400">
                 Azel
               </span>
